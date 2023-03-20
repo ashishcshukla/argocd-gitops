@@ -1,6 +1,6 @@
 ## ArgoCD on Local K8s Cluster
 
-This is a simple guide to setup ArgoCD on a local K8s cluster.
+This is a simple guide to setup ArgoCD on a local K8s cluster...
 
 ### Prerequisites
 
